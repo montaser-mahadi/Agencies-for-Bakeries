@@ -9,6 +9,7 @@ This system is for agencies distributing flour to bakeries, distributing flour t
 - Java 8+
 - MySQL 8.0.21 or above
 - Thymeleaf
+- Maven
 
 # In Spring BOOT:
 
