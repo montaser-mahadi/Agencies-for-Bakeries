@@ -8,6 +8,7 @@ This system is for agencies distributing flour to bakeries, distributing flour t
 - AdminLTE
 - Java 8+
 - MySQL 8.0.21 or above
+- Thymeleaf
 
 # In Spring BOOT:
 
