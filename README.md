@@ -16,6 +16,8 @@ This system is for agencies distributing flour to bakeries, distributing flour t
 - Create Permission Data 
 - Create User Roles Data
 
+# Main Language:
 
+- Arabic
 
 
