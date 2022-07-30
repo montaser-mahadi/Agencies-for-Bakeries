@@ -4,7 +4,9 @@ This system is for agencies distributing flour to bakeries, distributing flour t
 
 # Technologies:
 
-# Spring RELESE 2.1.6
-# AdminLTE
-# Java 8+
+- Spring RELESE 2.1.6
+- AdminLTE
+- Java 8+
+
+
 
