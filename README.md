@@ -7,6 +7,15 @@ This system is for agencies distributing flour to bakeries, distributing flour t
 - Spring RELESE 2.1.6
 - AdminLTE
 - Java 8+
+- MySQL 8.0.21 or above
+
+# In Spring BOOT:
+
+- Spring Security (Authentication and Authorization)
+- Aspect Java for Permission and Check Permission
+- Create Permission Data 
+- Create User Roles Data
+
 
 
 
