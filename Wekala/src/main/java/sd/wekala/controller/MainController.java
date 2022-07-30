@@ -65,6 +65,7 @@ public class MainController implements ErrorController {
 		return "login";
 	}
 
+	// Navigation To Dashboard
 	@GetMapping("dashboard")
 	@PermissionCheck(workspace = { Workspace.DASHBOARD }, read = true)
 	public String dashboard(Model model) {
